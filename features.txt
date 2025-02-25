@@ -1,0 +1,3 @@
+# Нови функционалности за DevOps-Lab
+3. Мониторинг со Prometheus и Grafana.
+4. CI/CD pipeline со Jenkins.
